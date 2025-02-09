@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolioexp/static/css/main.acf766e9.css",
+    "main.js": "/portfolioexp/static/js/main.c0420d1b.js",
+    "static/media/one.jpg": "/portfolioexp/static/media/one.42096c3bae3a90de6910.jpg",
+    "static/media/books-3.jpg": "/portfolioexp/static/media/books-3.3bd107d524d9950d84f3.jpg",
+    "static/media/product-2.jpg": "/portfolioexp/static/media/product-2.e03676392c46a11a43b5.jpg",
+    "static/media/books-1.jpg": "/portfolioexp/static/media/books-1.0cdba8895456d133d483.jpg",
+    "static/media/branding-3.jpg": "/portfolioexp/static/media/branding-3.b7db10edbeaf1b2636f1.jpg",
+    "static/media/app-2.jpg": "/portfolioexp/static/media/app-2.6da4d40f3db54f106a2d.jpg",
+    "static/media/app-1.jpg": "/portfolioexp/static/media/app-1.802eed785283b8b9771e.jpg",
+    "static/media/product-1.jpg": "/portfolioexp/static/media/product-1.3975dff84a3e21a541e2.jpg",
+    "static/media/books-2.jpg": "/portfolioexp/static/media/books-2.e35be653c50c959ede7b.jpg",
+    "static/media/branding-2.jpg": "/portfolioexp/static/media/branding-2.fb2f2584ecb4a3699148.jpg",
+    "static/media/app-3.jpg": "/portfolioexp/static/media/app-3.1328908345eb07514079.jpg",
+    "static/media/branding-1.jpg": "/portfolioexp/static/media/branding-1.998d6e9893f2fbaedd76.jpg",
+    "static/media/product-3.jpg": "/portfolioexp/static/media/product-3.74bf18a3643851c49388.jpg",
+    "index.html": "/portfolioexp/index.html",
+    "main.acf766e9.css.map": "/portfolioexp/static/css/main.acf766e9.css.map",
+    "main.c0420d1b.js.map": "/portfolioexp/static/js/main.c0420d1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acf766e9.css",
+    "static/js/main.c0420d1b.js"
+  ]
+}
